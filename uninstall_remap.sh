@@ -2,7 +2,7 @@
 
 set -e
 
-sudo launchctl unload ~/Library/LaunchAgents/com.local.KeyRemapping.plist
-sudo rm ~/Library/LaunchAgents/com.local.KeyRemapping.plist
+sudo launchctl unload /Library/LaunchDaemons/com.local.KeyRemapping.plist
+sudo rm /Library/LaunchDaemons/com.local.KeyRemapping.plist
 
 exit 0
