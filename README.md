@@ -24,3 +24,6 @@ To uninstall: (Skip to step 2 if you have already downloaded and extracted)
    chmod +x *.sh
    ./install_remap.sh
    ```
+
+
+**Use this code at your own risk**
