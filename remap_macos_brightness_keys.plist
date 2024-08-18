@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
+<dict>
     <key>Label</key>
     <string>com.local.KeyRemapping</string>
     <key>ProgramArguments</key>
@@ -11,16 +11,32 @@
         <string>--set</string>
         <string>{"UserKeyMapping":[
             {
-              "HIDKeyboardModifierMappingSrc": 0xc0000006f,
-              "HIDKeyboardModifierMappingDst": 0xff00000003
+              "HIDKeyboardModifierMappingSrc": 0xC000000B4,
+              "HIDKeyboardModifierMappingDst": 0x700000040
             },
             {
-              "HIDKeyboardModifierMappingSrc": 0xc00000070,
-              "HIDKeyboardModifierMappingDst": 0xff00000003
+              "HIDKeyboardModifierMappingSrc": 0xC000000CD,
+              "HIDKeyboardModifierMappingDst": 0x700000041
+            },
+            {
+              "HIDKeyboardModifierMappingSrc": 0xC000000B3,
+              "HIDKeyboardModifierMappingDst": 0x700000042
+            },
+            {
+              "HIDKeyboardModifierMappingSrc": 0xC000000E2,
+              "HIDKeyboardModifierMappingDst": 0x700000043
+            },
+            {
+              "HIDKeyboardModifierMappingSrc": 0xC000000EA,
+              "HIDKeyboardModifierMappingDst": 0x700000044
+            },
+            {
+              "HIDKeyboardModifierMappingSrc": 0xC000000E9,
+              "HIDKeyboardModifierMappingDst": 0x700000045
             }
         ]}</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
-  </dict>
+</dict>
 </plist>
