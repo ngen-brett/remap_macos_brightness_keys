@@ -6,6 +6,7 @@
       <string>com.local.KeyRemapping</string>
       <key>ProgramArguments</key>
       <array>
+          <string>sudo</string>
           <string>/usr/bin/hidutil</string>
           <string>property</string>
           <string>--set</string>
