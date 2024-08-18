@@ -7,7 +7,7 @@ To install:
 
 1. Download the code and extract it to the default location.
 2. Open "Terminal"
-3. Run the following commands:
+3. Run the following commands - you will likely be prompted in the terminal window to enter your login password. This is expected behavior.
    ```
    cd ~/Downloads/remap_macos_brightness_keys
    chmod +x *.sh
@@ -18,7 +18,7 @@ To uninstall: (Skip to step 2 if you have already downloaded and extracted)
 
 1. Download the code and extract it to the default location.
 2. Open "Terminal"
-3. Run the following commands:
+3. Run the following commands - you will likely be prompted in the terminal window to enter your login password. This is expected behavior.
    ```
    cd ~/Downloads/remap_macos_brightness_keys
    chmod +x *.sh
